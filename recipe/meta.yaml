@@ -5,10 +5,10 @@ package:
   version: {{ version }}
 
 build:
-  number: 0
+  number: 1000
 
 requirements:
-  build:
+  host:
     - python
   run:
     - python
