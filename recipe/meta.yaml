@@ -8,8 +8,6 @@ build:
   number: 1001
 
 requirements:
-  host:
-    - python
   run:
     - python
     - ipopt
