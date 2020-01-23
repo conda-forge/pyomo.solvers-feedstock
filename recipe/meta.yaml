@@ -27,6 +27,7 @@ test:
 about:
   home: http://pyomo.org
   license: BSD 3-clause
+  license_file: LICENSE.txt
   summary: 'Optimizers that enhance the functionality of Pyomo'
 
 extra:
